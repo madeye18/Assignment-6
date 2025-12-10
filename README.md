@@ -1,4 +1,4 @@
-imple Web Server with Node.js A basic web server built with Node.js http module that demonstrates routing and serves HTML pages with CSS styling. How to Run
+Simple Web Server with Node.js A basic web server built with Node.js http module that demonstrates routing and serves HTML pages with CSS styling. How to Run
 
 Ensure Node.js is installed on your system Navigate to the project folder in terminal Run command: node server.js Open browser and visit: http://localhost:3000
 
